@@ -1,5 +1,4 @@
 # Woocommerce-Epaygh
-Contributors: Epaygh
 
 Tags: woocommerce
 
